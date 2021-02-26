@@ -11,6 +11,6 @@ find $1 \( -type f -name "*.$2" \) | xargs -n1 -I{} cp --parents {} $1/$3
 
 # cp -R $1 *.$2 $1/../$3
 
-tar -czf $1/$4 $1/$3/
+tar -czf $1/$4 --absolute-names $1/$3/
 
 echo "done"
