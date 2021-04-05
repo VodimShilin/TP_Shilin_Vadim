@@ -1,0 +1,1 @@
+/home/vadim/toolchain/gcc-linaro-7.5.0-2019.12-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-gcc    -rdynamic CMakeFiles/MainLib.dir/main_lib.cpp.o  -o ../trash/bin/MainLib  -Wl,-rpath,/home/vadim/TechProgSimpleLibrary/build/trash/lib trash/lib/libbuffer.so 
