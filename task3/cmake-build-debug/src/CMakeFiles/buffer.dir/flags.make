@@ -6,5 +6,5 @@ CXX_FLAGS = -g -fPIC
 
 CXX_DEFINES = -Dbuffer_EXPORTS
 
-CXX_INCLUDES = -I/home/vadim/TechProgSimpleLibrary/include -I/home/vadim/TechProgSimpleLibrary/src/../include 
+CXX_INCLUDES = -I/home/vadim/TechProgSimpleLibrary/include 
 
