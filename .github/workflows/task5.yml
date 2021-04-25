@@ -49,4 +49,4 @@ jobs:
           name: Distributive    
           path: |
             task5/bin/ 
-            task5/bin 
+            task5/lib/
