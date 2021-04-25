@@ -41,12 +41,10 @@ jobs:
           
       - name: Test
         uses: akhtyamovpavel/ActionGtestReport@v0.0.9
-        with: { exec-path: bin/CTestExe, report-path: report.xml, working-directory: task5/ }
+        with: {exec-path: bin/CTestExe, report-path: report.xml, working-directory: task5/}
         
       - name: UploadArtifacts
         uses: actions/upload-artifact@v2.2.3
         with: 
           name: Distributive    
-          path: |
-            task5/bin/ 
-            task5/lib/
+          path: task5/bin/ task5/lib/
