@@ -47,4 +47,6 @@ jobs:
         uses: actions/upload-artifact@v2.2.3
         with: 
           name: Distributive    
-          path: task5/bin/ task5/bin 
+          path: |
+            task5/bin/ 
+            task5/bin 
