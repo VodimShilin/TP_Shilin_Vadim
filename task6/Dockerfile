@@ -1,5 +1,7 @@
-FROM python:3-onbuild
+FROM python:3
+CMD ["touch", "requirements.txt"]
 COPY . .
+
 RUN pip install --upgrade pip
 RUN wget https://github.com/Kitware/CMake/releases/download/v3.15.2/cmake-3.15.2.tar.gz
 RUN tar -zxvf cmake-3.15.2.tar.gz
