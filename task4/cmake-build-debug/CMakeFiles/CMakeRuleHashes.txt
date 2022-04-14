@@ -1,0 +1,27 @@
+# Hashes of file build rules.
+19bdeb7ff5057d91a0422dcbc23cdcb3 CMakeFiles/cpr_repo
+95979fc9cf154bd9b308fcbadbd95aa6 CMakeFiles/cpr_repo-complete
+19bdeb7ff5057d91a0422dcbc23cdcb3 CMakeFiles/googletest_repo
+adaf035a4342dc889ef8a406269e7eec CMakeFiles/googletest_repo-complete
+8fb43287796a21868be3cef7c82ab9ac cpr_repo-prefix/src/cpr_repo-stamp/cpr_repo-build
+42ae30bc49168218132bb6d499b84af3 cpr_repo-prefix/src/cpr_repo-stamp/cpr_repo-configure
+7834560cd3c72cebacf32a981ccd5338 cpr_repo-prefix/src/cpr_repo-stamp/cpr_repo-download
+2efe51b3e53fba3bda7a51ed99e79951 cpr_repo-prefix/src/cpr_repo-stamp/cpr_repo-install
+f8e15091fe95af10bb57439d2e20b0d0 cpr_repo-prefix/src/cpr_repo-stamp/cpr_repo-mkdir
+2fe15c9f7cf8edab3a5528f74b91981e cpr_repo-prefix/src/cpr_repo-stamp/cpr_repo-patch
+884cb573f9fc771c61d8fe30f7791ed4 cpr_repo-prefix/src/cpr_repo-stamp/cpr_repo-update
+37dd77d06e11fad9fe0ece980f383e0e googletest_repo-prefix/src/googletest_repo-stamp/googletest_repo-build
+2a2215620db67a4c76bf1e9b7391b138 googletest_repo-prefix/src/googletest_repo-stamp/googletest_repo-configure
+4b06386f635149fec6cf784e4de3312e googletest_repo-prefix/src/googletest_repo-stamp/googletest_repo-download
+40e0ee9ddcf47af8ad4658a406cb574c googletest_repo-prefix/src/googletest_repo-stamp/googletest_repo-install
+51e9a68d3cbccca8e82d2f56fa4128aa googletest_repo-prefix/src/googletest_repo-stamp/googletest_repo-mkdir
+80bbc2a74ba12508c033d11a2bba3d1b googletest_repo-prefix/src/googletest_repo-stamp/googletest_repo-patch
+40637b831f84cc443b34206411318a49 googletest_repo-prefix/src/googletest_repo-stamp/googletest_repo-update
+36c7a1a4617ac53e0b93e5ddc1dc9669 tests/00-aplusb/CMakeFiles/00-coverage-aplusb_html
+afa240082c477c0faaa1a0eac7748bd3 tests/00-aplusb/CMakeFiles/00-coverage-aplusb_xml
+4ee4bbfcfbaa73949cc749bfffc02f41 tests/01-simple-library/CMakeFiles/01-coverage-simple-library_html
+d80947fae0a3995a3ff1c1ec4ac8830e tests/01-simple-library/CMakeFiles/01-coverage-simple-library_xml
+2e6002abb3db4d6c3f80e9e93069f075 tests/02-tree/CMakeFiles/02-coverage-tree_html
+589462c1c191b4d119ec871fa9a14b79 tests/02-tree/CMakeFiles/02-coverage-tree_xml
+3d894dd534398d72a40310e22a3ab912 tests/03-weather/CMakeFiles/03-coverage-weather_html
+7f737be4075b6ccaf9842eaae53185a3 tests/03-weather/CMakeFiles/03-coverage-weather_xml
